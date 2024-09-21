@@ -1,22 +1,22 @@
-//Bot by 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒//
+//Bot by Danny//
 
 
 require("./all/module")
-global.owner = "254742491666" 
-global.namaCreator = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
+global.owner = "2348103519965" 
+global.namaCreator = "Danny Tech" 
 global.autoJoin = false 
 global.antilink = false 
 global.versisc = '6.0' 
-global.codeInvite = "https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e"
-global.isLink = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.codeInvite = "https://whatsapp.com/"
+global.isLink = 'https://whatsapp.com/'
 global.sessionName = 'session'
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
-global.author = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.packname = "Danny" 
+global.author = "Danny" 
 global.jumlah = "5" 
-global.namabot = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
-global.domain = 'https://kingsam.sellerpanelerol.me' // your domian
+global.namabot = "Danny 𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.domain = 'https://github.com/Danielaiola-md' // your domian
 global.apikey = 'ptla_VRxkhvalZQ3EhHyAax9QYxgT5cbsx2MrO69gBpVZmmd' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_sQ3d4GxCiztyV5DbhUJSWtvnSCyKzeMXoWIr2lVyqal' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
